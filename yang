@@ -361,10 +361,10 @@ int main()
     //ljf();
     //Time();
     //jsq1();
-    //yang();
+    yang();
     //caiSZ();
 
-    cfb();
+   // 循环流化床（）
 
     return 0;
 }
